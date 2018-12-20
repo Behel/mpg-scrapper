@@ -7,4 +7,4 @@ Pour lancer MPG Scrapper :
 - Lancer la commande ``python3 src/main.py`` depuis le dossier mpg-scrapper
 - Bim ca affiche les résultats des matches et le classement
 
-Pour l'instant ca affiche 0 infos
+Pour l'instant ca affiche des infos sur les matches et le classement, mais à vous de modifier la partie data_intelligence pour retourner ce que vous voulez ! (Stats des joueurs, ...)
