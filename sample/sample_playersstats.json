@@ -1,0 +1,306 @@
+{
+  "best_goalkeeper": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "player": "Maignan",
+      "price": 27,
+      "avg": 6.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "Mendy",
+      "price": 23,
+      "avg": 5.67
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Bernardoni",
+      "price": 18,
+      "avg": 5.33
+    }
+  ],
+  "best_defender": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Gabriel Silva",
+      "price": 8,
+      "avg": 6.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "player": "Atal",
+      "price": 11,
+      "avg": 6.25
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Martinez",
+      "price": 12,
+      "avg": 5.83
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "Debuchy",
+      "price": 36,
+      "avg": 5.75
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "José Fonte",
+      "price": 18,
+      "avg": 5.75
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "player": "Zeki Çelik",
+      "price": 16,
+      "avg": 5.75
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "player": "Kolodziejczak",
+      "price": 26,
+      "avg": 5.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Sarr",
+      "price": 13,
+      "avg": 5.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "player": "Subotic",
+      "price": 18,
+      "avg": 5.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "player": "Thiago Silva",
+      "price": 42,
+      "avg": 5.5
+    }
+  ],
+  "best_midfielder": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "Thiago Mendes",
+      "price": 22,
+      "avg": 7.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Cyprien",
+      "price": 20,
+      "avg": 7.25
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "Khazri",
+      "price": 48,
+      "avg": 6.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "Bamba",
+      "price": 42,
+      "avg": 6.25
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Capelle",
+      "price": 13,
+      "avg": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Savanier",
+      "price": 21,
+      "avg": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "player": "Tielemans",
+      "price": 15,
+      "avg": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Xeka",
+      "price": 12,
+      "avg": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "player": "Cabella",
+      "price": 40,
+      "avg": 5.75
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_176019",
+      "player": "Aouar",
+      "price": 31,
+      "avg": 5.67
+    }
+  ],
+  "best_forward": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "Pepe",
+      "price": 78,
+      "avg": 6.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Gradel",
+      "price": 35,
+      "avg": 6.17
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Fekir",
+      "price": 82,
+      "avg": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Kamano",
+      "price": 25,
+      "avg": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Leya Iseka",
+      "price": 11,
+      "avg": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Sarr",
+      "price": 31,
+      "avg": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Depay",
+      "price": 58,
+      "avg": 5.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "player": "Falcao",
+      "price": 52,
+      "avg": 5.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "player": "Mbappé",
+      "price": 120,
+      "avg": 5.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Neymar",
+      "price": 122,
+      "avg": 5.5
+    }
+  ],
+  "best_petro": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "player": "Atal",
+      "price": 11,
+      "goals": 1,
+      "ratio": 11
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Leya Iseka",
+      "price": 11,
+      "goals": 1,
+      "ratio": 11
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "Thiago Mendes",
+      "price": 22,
+      "goals": 2,
+      "ratio": 11
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Martinez",
+      "price": 12,
+      "goals": 1,
+      "ratio": 12
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Capelle",
+      "price": 13,
+      "goals": 1,
+      "ratio": 13
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "player": "Tielemans",
+      "price": 15,
+      "goals": 1,
+      "ratio": 15
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Mendy",
+      "price": 16,
+      "goals": 1,
+      "ratio": 16
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "player": "Gradel",
+      "price": 35,
+      "goals": 2,
+      "ratio": 17.5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "player": "José Fonte",
+      "price": 18,
+      "goals": 1,
+      "ratio": 18
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "player": "Cyprien",
+      "price": 20,
+      "goals": 1,
+      "ratio": 20
+    }
+  ],
+  "teams": {
+    "mpg_team_KUZ9SEYN$$mpg_user_317552": {
+      "name": "Pinkies",
+      "abbr": "PKS"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_58401": {
+      "name": "Kolo de vacances",
+      "abbr": "🥌⚽"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_762364": {
+      "name": "Champigny FC",
+      "abbr": "THO"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_176019": {
+      "name": "André Qualité",
+      "abbr": "AQ"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_524110": {
+      "name": "Coupet decalé",
+      "abbr": "CDC"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_766304": {
+      "name": "bang bang",
+      "abbr": "bgb"
+    }
+  }
+}

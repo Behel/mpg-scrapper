@@ -1,0 +1,168 @@
+{
+  "best_team": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "avg": 5.67,
+      "avg_bonus": 5.83
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_176019",
+      "avg": 5.06,
+      "avg_bonus": 5.61
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "avg": 5.52,
+      "avg_bonus": 5.58
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "avg": 5.32,
+      "avg_bonus": 5.53
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "avg": 4.98,
+      "avg_bonus": 5.15
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "avg": 5.09,
+      "avg_bonus": 5.11
+    }
+  ],
+  "best_team_attack": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "real": 6,
+      "mpg": 4,
+      "goals": 10
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "real": 6,
+      "mpg": 0,
+      "goals": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "real": 5,
+      "mpg": 1,
+      "goals": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "real": 5,
+      "mpg": 0,
+      "goals": 5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_176019",
+      "real": 3,
+      "mpg": 1,
+      "goals": 4
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "real": 1,
+      "mpg": 2,
+      "goals": 3
+    }
+  ],
+  "best_team_defense": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "real": 3,
+      "mpg": 0,
+      "goals": 3
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "real": 4,
+      "mpg": 1,
+      "goals": 5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "real": 4,
+      "mpg": 2,
+      "goals": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "real": 6,
+      "mpg": 0,
+      "goals": 6
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "real": 4,
+      "mpg": 3,
+      "goals": 7
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_176019",
+      "real": 5,
+      "mpg": 2,
+      "goals": 7
+    }
+  ],
+  "rotaldo": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "played": 3,
+      "nbRotaldo": 1
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "played": 3,
+      "nbRotaldo": 1
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "played": 3,
+      "nbRotaldo": 0
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "played": 3,
+      "nbRotaldo": 0
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "played": 3,
+      "nbRotaldo": 0
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_176019",
+      "played": 3,
+      "nbRotaldo": 0
+    }
+  ],
+  "teams": {
+    "mpg_team_KUZ9SEYN$$mpg_user_317552": {
+      "name": "Pinkies",
+      "abbr": "PKS"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_58401": {
+      "name": "Kolo de vacances",
+      "abbr": "🥌⚽"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_762364": {
+      "name": "Champigny FC",
+      "abbr": "THO"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_176019": {
+      "name": "André Qualité",
+      "abbr": "AQ"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_524110": {
+      "name": "Coupet decalé",
+      "abbr": "CDC"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_766304": {
+      "name": "bang bang",
+      "abbr": "bgb"
+    }
+  }
+}

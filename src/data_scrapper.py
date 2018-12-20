@@ -31,10 +31,42 @@ def get_match_summary(token, league, match):
 
 
 def get_ranking(token, league):
+    return __get_league_page(token, league, "ranking")
+
+
+def get_players_stats(token, league):
+    return __get_league_page(token, league, "ranking/player")
+
+
+def get_team_stats(token, league):
+    return __get_league_page(token, league, "ranking/team")
+
+
+def get_bonus_stats(token, league):
+    return __get_league_page(token, league, "ranking/bonus")
+
+
+def get_palmares(token, league):
+    return __get_league_page(token, league, "ranking/winners")
+
+
+def get_teamplayers(token, league):
+    return __get_league_page(token, league, "teams")
+
+
+def get_league_info(token, league):
+    return __get_league_page(token, league, "status")
+
+
+def get_calendar(token, league):
+    return __get_league_page(token, league, "calendar")
+
+
+def __get_league_page(token, league, page):
     header = {'Authorization': token}
-    r_ranking = requests.get(BASEPATH_API_MPG+'league/'+league+"/ranking", headers=header)
-    if r_ranking.ok:
-        parsed = json.loads(r_ranking.content.decode('utf-8'))
+    r_league = requests.get(BASEPATH_API_MPG+'league/'+league+"/"+page, headers=header)
+    if r_league.ok:
+        parsed = json.loads(r_league.content.decode('utf-8'))
         return parsed
     else:
-        raise NoLeagueException("The league "+league+"doesn't exists")
+        raise NoLeagueException("The league "+league+" doesn't exists")

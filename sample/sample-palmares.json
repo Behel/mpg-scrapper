@@ -1,0 +1,506 @@
+{
+  "winners": [
+    {
+      "season": 4,
+      "ranking": [
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_84797",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "vvnvv",
+          "played": 14,
+          "victory": 8,
+          "draw": 3,
+          "defeat": 3,
+          "goal": 37,
+          "goalconceded": 34,
+          "difference": 3,
+          "points": 27,
+          "rank": 1
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_210483",
+          "rotaldo": false,
+          "bonusUser": true,
+          "series": "ndvnv",
+          "played": 14,
+          "victory": 7,
+          "draw": 5,
+          "defeat": 2,
+          "goal": 42,
+          "goalconceded": 22,
+          "difference": 20,
+          "points": 26,
+          "rank": 2
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_99477",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "vvddd",
+          "played": 14,
+          "victory": 7,
+          "draw": 4,
+          "defeat": 3,
+          "goal": 49,
+          "goalconceded": 33,
+          "difference": 16,
+          "points": 25,
+          "rank": 3
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_148581",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "nvvdv",
+          "played": 14,
+          "victory": 5,
+          "draw": 5,
+          "defeat": 4,
+          "goal": 28,
+          "goalconceded": 28,
+          "difference": 0,
+          "points": 20,
+          "rank": 4
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_58401",
+          "rotaldo": false,
+          "bonusUser": true,
+          "series": "ndvnn",
+          "played": 14,
+          "victory": 3,
+          "draw": 6,
+          "defeat": 5,
+          "goal": 34,
+          "goalconceded": 34,
+          "difference": 0,
+          "points": 15,
+          "rank": 5
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_84791",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "dvdvd",
+          "played": 14,
+          "victory": 4,
+          "draw": 3,
+          "defeat": 7,
+          "goal": 21,
+          "goalconceded": 32,
+          "difference": -11,
+          "points": 15,
+          "rank": 6
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_155934",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "dddvn",
+          "played": 14,
+          "victory": 4,
+          "draw": 2,
+          "defeat": 8,
+          "goal": 31,
+          "goalconceded": 46,
+          "difference": -15,
+          "points": 14,
+          "rank": 7
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_58380",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "ndndd",
+          "played": 14,
+          "victory": 1,
+          "draw": 6,
+          "defeat": 7,
+          "goal": 30,
+          "goalconceded": 43,
+          "difference": -13,
+          "points": 9,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "ranking": [
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_84791",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "vddvv",
+          "played": 14,
+          "victory": 9,
+          "draw": 0,
+          "defeat": 5,
+          "goal": 36,
+          "goalconceded": 28,
+          "difference": 8,
+          "points": 27,
+          "rank": 1
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_84797",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "nvvvd",
+          "played": 14,
+          "victory": 8,
+          "draw": 3,
+          "defeat": 3,
+          "goal": 31,
+          "goalconceded": 26,
+          "difference": 5,
+          "points": 27,
+          "rank": 2
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_148581",
+          "rotaldo": false,
+          "bonusUser": true,
+          "series": "nvvvd",
+          "played": 14,
+          "victory": 6,
+          "draw": 4,
+          "defeat": 4,
+          "goal": 33,
+          "goalconceded": 27,
+          "difference": 6,
+          "points": 22,
+          "rank": 3
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_99477",
+          "rotaldo": false,
+          "bonusUser": true,
+          "series": "ddndv",
+          "played": 14,
+          "victory": 6,
+          "draw": 2,
+          "defeat": 6,
+          "goal": 26,
+          "goalconceded": 24,
+          "difference": 2,
+          "points": 20,
+          "rank": 4
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_58380",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "vdndv",
+          "played": 14,
+          "victory": 5,
+          "draw": 3,
+          "defeat": 6,
+          "goal": 22,
+          "goalconceded": 29,
+          "difference": -7,
+          "points": 18,
+          "rank": 5
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_155934",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "dvvdd",
+          "played": 14,
+          "victory": 5,
+          "draw": 2,
+          "defeat": 7,
+          "goal": 30,
+          "goalconceded": 29,
+          "difference": 1,
+          "points": 17,
+          "rank": 6
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_210483",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "vvddv",
+          "played": 14,
+          "victory": 5,
+          "draw": 2,
+          "defeat": 7,
+          "goal": 30,
+          "goalconceded": 33,
+          "difference": -3,
+          "points": 17,
+          "rank": 7
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_58401",
+          "rotaldo": true,
+          "bonusUser": true,
+          "series": "dddvd",
+          "played": 14,
+          "victory": 4,
+          "draw": 0,
+          "defeat": 10,
+          "goal": 18,
+          "goalconceded": 30,
+          "difference": -12,
+          "points": 12,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "ranking": [
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_58401",
+          "series": "vvdvv",
+          "played": 14,
+          "victory": 9,
+          "draw": 1,
+          "defeat": 4,
+          "goal": 40,
+          "goalconceded": 27,
+          "difference": 13,
+          "points": 28,
+          "rank": 1
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_210483",
+          "series": "vvvnd",
+          "played": 14,
+          "victory": 8,
+          "draw": 1,
+          "defeat": 5,
+          "goal": 35,
+          "goalconceded": 23,
+          "difference": 12,
+          "points": 25,
+          "rank": 2
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_84797",
+          "series": "dddnn",
+          "played": 14,
+          "victory": 7,
+          "draw": 2,
+          "defeat": 5,
+          "goal": 44,
+          "goalconceded": 35,
+          "difference": 9,
+          "points": 23,
+          "rank": 3
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_155934",
+          "series": "vvvvn",
+          "played": 14,
+          "victory": 7,
+          "draw": 1,
+          "defeat": 6,
+          "goal": 32,
+          "goalconceded": 36,
+          "difference": -4,
+          "points": 22,
+          "rank": 4
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_99477",
+          "series": "ddvnn",
+          "played": 14,
+          "victory": 6,
+          "draw": 3,
+          "defeat": 5,
+          "goal": 29,
+          "goalconceded": 32,
+          "difference": -3,
+          "points": 21,
+          "rank": 5
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_148581",
+          "series": "ddvnv",
+          "played": 14,
+          "victory": 5,
+          "draw": 2,
+          "defeat": 7,
+          "goal": 31,
+          "goalconceded": 34,
+          "difference": -3,
+          "points": 17,
+          "rank": 6
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_84791",
+          "series": "dvddd",
+          "played": 14,
+          "victory": 5,
+          "draw": 0,
+          "defeat": 9,
+          "goal": 28,
+          "goalconceded": 29,
+          "difference": -1,
+          "points": 15,
+          "rank": 7
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_58380",
+          "series": "vdddn",
+          "played": 14,
+          "victory": 3,
+          "draw": 2,
+          "defeat": 9,
+          "goal": 17,
+          "goalconceded": 40,
+          "difference": -23,
+          "points": 11,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "ranking": [
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_84791",
+          "series": "dnvdv",
+          "played": 14,
+          "victory": 9,
+          "draw": 2,
+          "defeat": 3,
+          "goal": 41,
+          "goalconceded": 22,
+          "difference": 19,
+          "points": 29,
+          "rank": 1
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_155934",
+          "series": "vdnvv",
+          "played": 14,
+          "victory": 7,
+          "draw": 5,
+          "defeat": 2,
+          "goal": 36,
+          "goalconceded": 27,
+          "difference": 9,
+          "points": 26,
+          "rank": 2
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_84797",
+          "series": "nvdvd",
+          "played": 14,
+          "victory": 7,
+          "draw": 2,
+          "defeat": 5,
+          "goal": 35,
+          "goalconceded": 33,
+          "difference": 2,
+          "points": 23,
+          "rank": 3
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_148581",
+          "series": "dndvd",
+          "played": 14,
+          "victory": 6,
+          "draw": 1,
+          "defeat": 7,
+          "goal": 35,
+          "goalconceded": 37,
+          "difference": -2,
+          "points": 19,
+          "rank": 4
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_58380",
+          "series": "nvddd",
+          "played": 14,
+          "victory": 5,
+          "draw": 3,
+          "defeat": 6,
+          "goal": 24,
+          "goalconceded": 23,
+          "difference": 1,
+          "points": 18,
+          "rank": 5
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_58401",
+          "series": "dnvdv",
+          "played": 14,
+          "victory": 4,
+          "draw": 4,
+          "defeat": 6,
+          "goal": 26,
+          "goalconceded": 29,
+          "difference": -3,
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_210483",
+          "series": "vnvnd",
+          "played": 14,
+          "victory": 4,
+          "draw": 3,
+          "defeat": 7,
+          "goal": 18,
+          "goalconceded": 25,
+          "difference": -7,
+          "points": 15,
+          "rank": 7
+        },
+        {
+          "teamid": "mpg_team_pW8EhLISHao$$mpg_user_99477",
+          "series": "vdnnv",
+          "played": 14,
+          "victory": 2,
+          "draw": 4,
+          "defeat": 8,
+          "goal": 17,
+          "goalconceded": 36,
+          "difference": -19,
+          "points": 10,
+          "rank": 8
+        }
+      ]
+    }
+  ],
+  "teams": {
+    "mpg_team_pW8EhLISHao$$mpg_user_58401": {
+      "name": "Maignan ? Messi !",
+      "abbr": "MMM"
+    },
+    "mpg_team_pW8EhLISHao$$mpg_user_84791": {
+      "name": "L\u0027étoile rouge de bergerac",
+      "abbr": "ERB"
+    },
+    "mpg_team_pW8EhLISHao$$mpg_user_84797": {
+      "name": "Les super chouettes de dijon",
+      "abbr": "DIJ"
+    },
+    "mpg_team_pW8EhLISHao$$mpg_user_210483": {
+      "name": "L\u0027Entente Remoise",
+      "abbr": "SdR"
+    },
+    "mpg_team_pW8EhLISHao$$mpg_user_148581": {
+      "name": "RAGT Semence - MG Rover",
+      "abbr": "RMG"
+    },
+    "mpg_team_pW8EhLISHao$$mpg_user_58380": {
+      "name": "OSGL Football",
+      "abbr": "BIT"
+    },
+    "mpg_team_pW8EhLISHao$$mpg_user_155934": {
+      "name": "Cnamtsatziki FC",
+      "abbr": "CNA"
+    },
+    "mpg_team_pW8EhLISHao$$mpg_user_99477": {
+      "name": "Galère Germain",
+      "abbr": "GG"
+    }
+  }
+}

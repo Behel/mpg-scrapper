@@ -15,34 +15,66 @@ def main():
     username = config.get('Id', 'username')
     pwd = config.get('Id', 'password')
 
-    leagues = config.get('Leagues', 'leagues_6_players').split(',')
-    # Pour l'instant je gère que les ligues de 6 pour la boucle, mais je vais variabiliser ca
-    # TODO : Avant l'appel de la boucle, récupérer les infos sur la ligue (nbe de joueurs notamment)
-    season = config.get('Leagues', 'season')
+    leagues = config.get('Leagues', 'leagues').split(',')
 
     try:
         # Récupération du token de connexion
         token = data_scrapper.get_token(username, pwd)
 
-        # Pour chacune des ligues, je récupère le résultat & je fais un traitement simple dessus
+        # Pour chacune des ligues ...
         for league in leagues:
-            for day in range(1, 11):
-                for match in range(1, 3):
+
+            ### J'affiche le nom de la ligue et je récupère les infos utiles
+            league_info = data_scrapper.get_league_info(token, league)
+
+            # Journée en cours (dernière ou à venir)
+            current_match_day = data_scrapper.get_calendar(token, league)['data']['results']['currentMatchDay']
+            max_match_day = data_scrapper.get_calendar(token, league)['data']['results']['maxMatchDay']
+
+            # Récupération de la saison en cours
+            palmares = data_scrapper.get_palmares(token, league)
+            if not palmares:
+                season = 1
+            else:
+                season = max(palmares['winners'], key=lambda item: item['season'])['season']+1
+
+            print("----")
+            print("Ligue " + league_info['leagueName'] + " | Saison "+str(season))
+            print("----")
+            print("Résultats autour de la journée " + str(current_match_day)+"/"+str(max_match_day))
+
+            ### Je récupère le résultat des matches & je fais un traitement simple dessus
+            no_more_matches = False
+            match_number = (int(league_info['players']/2))
+            for day in range(1, current_match_day+1):
+                print("Journée "+str(day))
+                for match in range(1, match_number+1):
                     try:
-                        match = data_scrapper.get_match_summary(token, league, season+"_"+str(day)+"_"+str(match))
+                        match = data_scrapper.get_match_summary(token, league, str(season)+"_"+str(day)+"_"+str(match))
                         result = data_intelligence.get_score(match)
                         print(result)
+                    except NoMatchException:
+                        no_more_matches = True
+                        break
+                if no_more_matches:
+                    print("Journée non jouée encore")
+                    break
 
-                    except NoMatchException as nme:
-                        print(nme.msg)
-
-        # Pour chacune des ligues je récupère le classeent et je printe un résultat simple dessus
-        for league in leagues:
+            ### Je récupère le classeent et j'affiche un résultat simple dessus
             try:
                 ranking = data_scrapper.get_ranking(token, league)
                 result = data_intelligence.print_ranking(ranking)
                 print(result)
+            except NoLeagueException as nle:
+                print(nle.msg)
 
+            ### Je récupère les infos marrantes des stats
+            try:
+                players_stats = data_scrapper.get_players_stats(token, league)
+                print("Le joueur en tête du Petro-green Dollar est " +
+                      players_stats["best_petro"][0]['player'] + " (ratio : " +
+                      str(players_stats["best_petro"][0]['ratio'])+") pour " +
+                      players_stats['teams'][players_stats["best_petro"][0]['teamid']]['name'])
             except NoLeagueException as nle:
                 print(nle.msg)
 

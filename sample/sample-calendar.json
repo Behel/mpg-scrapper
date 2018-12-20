@@ -1,0 +1,104 @@
+{
+  "data": {
+    "results": {
+      "currentMatchDay": 4,
+      "maxMatchDay": 10,
+      "date": 1545508800000,
+      "matches": [
+        {
+          "id": "1_4_1",
+          "teamHome": {
+            "id": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+            "user": "mpg_user_524110",
+            "name": "Coupet decalé",
+            "jersey": {
+              "id": 0,
+              "sponsor": 4,
+              "zones": {
+                "z1": "#ff2626"
+              }
+            },
+            "level": 4
+          },
+          "teamAway": {
+            "id": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+            "user": "mpg_user_58401",
+            "name": "Kolo de vacances",
+            "jersey": {
+              "id": 1,
+              "zones": {
+                "z6": "#8adf84",
+                "z2": "#005f29",
+                "z3": "#8adf84",
+                "z4": "#005f29",
+                "z5": "#8adf84",
+                "z1": "#005f29",
+                "z7": "#005f29"
+              }
+            },
+            "star": 1,
+            "level": 1
+          }
+        },
+        {
+          "id": "1_4_2",
+          "teamHome": {
+            "id": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+            "user": "mpg_user_762364",
+            "name": "Champigny FC",
+            "jersey": {
+              "id": 0,
+              "sponsor": 4,
+              "zones": {
+                "z1": "#ff2626"
+              }
+            },
+            "level": 5
+          },
+          "teamAway": {
+            "id": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+            "user": "mpg_user_766304",
+            "name": "bang bang",
+            "jersey": {
+              "id": 0,
+              "sponsor": 1,
+              "zones": {
+                "z1": "#ffb800"
+              }
+            },
+            "level": 5
+          }
+        },
+        {
+          "id": "1_4_3",
+          "teamHome": {
+            "id": "mpg_team_KUZ9SEYN$$mpg_user_176019",
+            "user": "mpg_user_176019",
+            "name": "André Qualité",
+            "jersey": {
+              "id": 0,
+              "sponsor": 5,
+              "zones": {
+                "z1": "#fff59d"
+              }
+            },
+            "level": 3
+          },
+          "teamAway": {
+            "id": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+            "user": "mpg_user_317552",
+            "name": "Pinkies",
+            "jersey": {
+              "id": 0,
+              "sponsor": 6,
+              "zones": {
+                "z1": "#ff8ebf"
+              }
+            },
+            "level": 2
+          }
+        }
+      ]
+    }
+  }
+}
