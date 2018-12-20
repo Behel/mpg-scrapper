@@ -32,11 +32,7 @@ def main():
             max_match_day = data_scrapper.get_calendar(token, league)['data']['results']['maxMatchDay']
 
             # Récupération de la saison en cours
-            palmares = data_scrapper.get_palmares(token, league)
-            if not palmares:
-                season = 1
-            else:
-                season = max(palmares['winners'], key=lambda item: item['season'])['season']+1
+            season = data_intelligence.get_last_season(token, league)
 
             print("----")
             print("Ligue " + league_info['leagueName'] + " | Saison "+str(season))

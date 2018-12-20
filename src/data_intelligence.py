@@ -1,3 +1,5 @@
+import data_scrapper
+
 def get_score(match):
     retour = ""
     team_home = match['data']['teamHome']['name']
@@ -49,8 +51,8 @@ def get_bonus(json):
 
 def print_ranking(ranking):
     beautiful_ranking = ""
-    for i in range(0, 6):
-        ligne = ranking['ranking'][i]
+    i=1
+    for ligne in ranking['ranking']:
         team = ranking['teams'][ligne['teamid']]['name']
         have_rotaldos = ligne['rotaldo']
         used_bonuses = ligne['bonusUser']
@@ -59,7 +61,7 @@ def print_ranking(ranking):
         diff = ligne['difference']
         series = ligne['series']
         beautiful_ranking += \
-            str(i+1) + " - " +\
+            str(i) + " - " +\
             team + " - " +\
             str(points) + "pts (" +\
             str(diff) + ") - " +\
@@ -70,7 +72,16 @@ def print_ranking(ranking):
         if not used_bonuses:
             beautiful_ranking += "Le joueur a encore tous ses bonus pour l'instant... "
         beautiful_ranking += "\n"
+        i+=1
 
     return beautiful_ranking
+
+
+def get_last_season(token, league):
+    palmares = data_scrapper.get_palmares(token, league)
+    if not palmares:
+        return 1
+    else:
+        return max(palmares['winners'], key=lambda item: item['season'])['season'] + 1
 
 
