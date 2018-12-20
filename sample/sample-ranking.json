@@ -1,0 +1,120 @@
+{
+  "ranking": [
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_762364",
+      "rotaldo": false,
+      "bonusUser": true,
+      "series": "vvv",
+      "played": 3,
+      "victory": 3,
+      "draw": 0,
+      "defeat": 0,
+      "goal": 10,
+      "goalconceded": 3,
+      "difference": 7,
+      "points": 9,
+      "rank": 1
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_524110",
+      "rotaldo": false,
+      "bonusUser": true,
+      "series": "vdv",
+      "played": 3,
+      "victory": 2,
+      "draw": 0,
+      "defeat": 1,
+      "goal": 6,
+      "goalconceded": 6,
+      "difference": 0,
+      "points": 6,
+      "rank": 2
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_317552",
+      "rotaldo": true,
+      "bonusUser": false,
+      "series": "nvd",
+      "played": 3,
+      "victory": 1,
+      "draw": 1,
+      "defeat": 1,
+      "goal": 5,
+      "goalconceded": 6,
+      "difference": -1,
+      "points": 4,
+      "rank": 3
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_58401",
+      "rotaldo": true,
+      "bonusUser": true,
+      "series": "ddv",
+      "played": 3,
+      "victory": 1,
+      "draw": 0,
+      "defeat": 2,
+      "goal": 3,
+      "goalconceded": 5,
+      "difference": -2,
+      "points": 3,
+      "rank": 4
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_766304",
+      "rotaldo": false,
+      "bonusUser": false,
+      "series": "nnd",
+      "played": 3,
+      "victory": 0,
+      "draw": 2,
+      "defeat": 1,
+      "goal": 6,
+      "goalconceded": 7,
+      "difference": -1,
+      "points": 2,
+      "rank": 5
+    },
+    {
+      "teamid": "mpg_team_KUZ9SEYN$$mpg_user_176019",
+      "rotaldo": false,
+      "bonusUser": true,
+      "series": "dnd",
+      "played": 3,
+      "victory": 0,
+      "draw": 1,
+      "defeat": 2,
+      "goal": 4,
+      "goalconceded": 7,
+      "difference": -3,
+      "points": 1,
+      "rank": 6
+    }
+  ],
+  "teams": {
+    "mpg_team_KUZ9SEYN$$mpg_user_317552": {
+      "name": "Pinkies",
+      "abbr": "PKS"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_58401": {
+      "name": "Kolo de vacances",
+      "abbr": "🥌⚽"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_762364": {
+      "name": "Champigny FC",
+      "abbr": "THO"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_176019": {
+      "name": "André Qualité",
+      "abbr": "AQ"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_524110": {
+      "name": "Coupet decalé",
+      "abbr": "CDC"
+    },
+    "mpg_team_KUZ9SEYN$$mpg_user_766304": {
+      "name": "bang bang",
+      "abbr": "bgb"
+    }
+  }
+}

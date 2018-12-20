@@ -1,0 +1,7 @@
+[Id]
+username: user@mail.fr
+password: ThisIsNotAPwd
+
+[Leagues]
+leagues_6_players=ABCDEFGH,ABCDEFGH
+season=1
