@@ -26,8 +26,8 @@ def print_ranking(ranking):
             series + ". "
         if have_rotaldos:
             beautiful_ranking += "Toujours pas de Rotaldo pour ce joueur ! "
-        if used_bonuses:
-            beautiful_ranking += "Le joueur a encore tous ces bonus pour l'instant... "
+        if not used_bonuses:
+            beautiful_ranking += "Le joueur a encore tous ses bonus pour l'instant... "
         beautiful_ranking += "\n"
 
     return beautiful_ranking
