@@ -1,3 +1,6 @@
+# Deprecated project
+Not usable anymore with the shutdown of the website
+
 # MPG Scrapper
 
 Pour lancer MPG Scrapper : 
